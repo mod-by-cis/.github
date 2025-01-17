@@ -1,3 +1,5 @@
+![LOGO](./logo/LOGO_B.JPG)
+
 <table border="1">
   <tr>
     <th><h1>Serwus 👋</h1></th>
@@ -37,7 +39,9 @@
   </tr>
 
   <tr>
-    <td colspan="2><img src="./logo/LOGO_B.JPG" /></td>
+    <td colspan="2>
+      <a href="https://www.facebook.com/mod.by.cis/posts/pfbid02mZ5XFoxsZU8DWVRrt7VrSCTDEtVWTDon8gsjwwomgARdQkDLtK1UCnTJZQAe2hYgl">https://www.facebook.com/mod.by.cis/posts/pfbid02mZ5XFoxsZU8DWVRrt7VrSCTDEtVWTDon8gsjwwomgARdQkDLtK1UCnTJZQAe2hYgl</a>
+      </td>
   </tr>
   <tr>
     <th><h2>O Projekcie</h2></th>
@@ -129,124 +133,7 @@
 </table>
 
 
-# 🇵🇱 MOD by CISowscy – Witamy! 🇵🇱
 
-## Wstęp
-Wielmożni Państwo, Szanowni Oglądający i Przechodni Internetowi!  
-Z radością ogłaszamy powstanie naszego repozytorium na platformie GitHub, powiązanego z niniejszą stroną. Przedsięwzięcie to nazwaliśmy **„DeNo MODs by CISowscy”** (#DeNoMODsByCISowscy), a w wersji zwięzłej **„MOD by CIS”** (#MODbyCIS).  
-
-### Znajdziecie nas tutaj:
-➡️ [Facebook – MOD by CIS](https://www.facebook.com/mod.by.cis/)  
-➡️ [GitHub – DeNo MODs by CISowscy](https://github.com/deno-mods-by-cisowscy)  
-
----
-
-## O Projekcie
-Naszym celem jest udostępnienie społeczności zbioru mikro-repozytoriów będących owocami naszych doświadczeń i eksperymentów programistycznych.  
-Każde repozytorium:
-- Rozwiązuje konkretny problem – od drobnych do bardziej złożonych.  
-- Jest przygotowane jako **ECMAScript module** z myślą o uniwersalnym zastosowaniu.  
-
-### Dokumentacja
-Szczegółowe wyjaśnienia funkcjonalności i implementacji znajdziecie w sekcji „**HOW TO USAGE THIS**” w pliku **README.md**.  
-
----
-
-## Technologie
-Trzon naszej pracy to:
-- **#TypeScript**  
-- **#ReactTypeScript**  
-
-Dodatkowo wykorzystujemy:
-- **#HTML**, **#SVG**, **#CSS**  
-- **GRAPHML**, **#JSON**, **TOML**, **#XML**, **#GedCom**  
-- **#PowerShell**, **#SQLite**  
-
-Każde repozytorium jest kompatybilne z **#Deno 2.X**.  
-
-### Porady
-Dzielimy się również wskazówkami dotyczącymi korzystania z:
-- **#git**  
-- **#vscode** (#code/ #codium)  
-
----
-
-## Dla Kogo?
-Nasze moduły mogą być:
-- Przydatne dla programistów, badaczy i pasjonatów technologii.  
-- Inspiracją do tworzenia własnych projektów.  
-
-### Zapraszamy
-Odwiedzajcie nasze zasoby, dzielcie się spostrzeżeniami i odkrywajcie świat kodu razem z nami.  
-
----
-
-## Podziękowanie
-Życzymy Wam inspirującej podróży przez zakątki programistycznej wyobraźni, które otwieramy z pełnym zapałem.  
-
-**Zespół „MOD by CIS”**
-
----
-
-# 🇬🇧 MOD by CIS – Welcome! 🇬🇧
-
-## Introduction
-**Esteemed Ladies and Gentlemen, Honoured Viewers, and Wandering Denizens of the Internet!**  
-We are delighted to announce the creation of our humble yet ambitious repository on GitHub, interwoven with this very page. This initiative is titled **“DeNo MODs by CISowscy”** (#DeNoMODsByCISowscy), or more succinctly, **“MOD by CIS”** (#MODbyCIS).  
-
-### Find us here:
-➡️ [Facebook – MOD by CIS](https://www.facebook.com/mod.by.cis/)  
-➡️ [GitHub – DeNo MODs by CISowscy](https://github.com/deno-mods-by-cisowscy)  
-
----
-
-## About the Project
-Our aim is to share a collection of micro-repositories—fruits of our programming endeavours and experiments.  
-Each repository:
-- Addresses a specific problem, from minor to more intricate.  
-- Is crafted as an **ECMAScript module** with universal applicability.  
-
-### Documentation
-Features and implementation details are thoroughly explained in the “**HOW TO USAGE THIS**” section of the **README.md** file.  
-
----
-
-## Technologies
-The core of our work includes:
-- **#TypeScript**  
-- **#ReactTypeScript**  
-
-We also utilise:
-- **#HTML**, **#SVG**, **#CSS**  
-- **GRAPHML**, **#JSON**, **TOML**, **#XML**, **#GedCom**  
-- **#PowerShell**, **#SQLite**  
-
-Each repository is fully compatible with **#Deno 2.X**.  
-
-### Tips
-We provide insights into tools like:
-- **#git**  
-- **#vscode** (#code/ #codium)  
-
----
-
-## For Whom?
-Our modules aim to:
-- Assist programmers, researchers, and technology enthusiasts.  
-- Inspire the creation of bold, innovative projects.  
-
-### Invitation
-Explore our resources, share your feedback, and join us in the world of code.  
-
----
-
-## Closing Note
-We wish all visitors an inspiring journey through the realms of programming imagination, unveiled with passion and enthusiasm.  
-
-**The Team of “MOD by CIS”**
-
-
-https://www.facebook.com/mod.by.cis/posts/pfbid02mZ5XFoxsZU8DWVRrt7VrSCTDEtVWTDon8gsjwwomgARdQkDLtK1UCnTJZQAe2hYgl
 
 <!--
 
