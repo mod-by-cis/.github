@@ -1,9 +1,7 @@
-## Serwus! / Hi there 👋
-
 <table border="1">
   <tr>
-    <th><h1>MOD by CISowscy – Witamy!</h1></th>
-    <th><h1>MOD by CIS – Welcome!</h1></th>
+    <th><h1>Serwus 👋</h1></th>
+    <th><h1>Hi there 👋</h1></th>
   </tr>
 
   <tr>
@@ -38,6 +36,9 @@
     </td>
   </tr>
 
+  <tr>
+    <td colspan="2><img src="./logo/LOGO_B.JPG" /></td>
+  </tr>
   <tr>
     <th><h2>O Projekcie</h2></th>
     <th><h2>About the Project</h2></th>
