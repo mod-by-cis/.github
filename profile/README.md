@@ -14,11 +14,11 @@
   <tr>
     <td>
       Wielmożni Państwo, Szanowni Oglądający i Przechodni Internetowi!  
-      Z radością ogłaszamy powstanie naszego repozytorium na platformie GitHub, powiązanego z niniejszą stroną. Przedsięwzięcie to nazwaliśmy **„DeNo MODs by CISowscy”** (#DeNoMODsByCISowscy), a w wersji zwięzłej **„MOD by CIS”** (#MODbyCIS).  
+      Z radością ogłaszamy powstanie naszego repozytorium na platformie GitHub, powiązanego z niniejszą stroną. Przedsięwzięcie to nazwaliśmy **„MODs by CISowski”** (#MODsByCISowski), a w wersji zwięzłej **„MOD by CIS”** (#MODbyCIS).  
     </td>
     <td>
       **Esteemed Ladies and Gentlemen, Honoured Viewers, and Wandering Denizens of the Internet!**  
-      We are delighted to announce the creation of our humble yet ambitious repository on GitHub, interwoven with this very page. This initiative is titled **“DeNo MODs by CISowscy”** (#DeNoMODsByCISowscy), or more succinctly, **“MOD by CIS”** (#MODbyCIS).  
+      We are delighted to announce the creation of our humble yet ambitious repository on GitHub, interwoven with this very page. This initiative is titled **“MODs by CISowski”** (#MODsByCISowski), or more succinctly, **“MOD by CIS”** (#MODbyCIS).  
     </td>
   </tr>
 
@@ -30,11 +30,11 @@
   <tr>
     <td>
       ➡️ [Facebook – MOD by CIS](https://www.facebook.com/mod.by.cis/)  
-      ➡️ [GitHub – DeNo MODs by CISowscy](https://github.com/deno-mods-by-cisowscy)  
+      ➡️ [GitHub – MOD by CIS](https://github.com/mod-by-cis)  
     </td>
     <td>
       ➡️ [Facebook – MOD by CIS](https://www.facebook.com/mod.by.cis/)  
-      ➡️ [GitHub – DeNo MODs by CISowscy](https://github.com/deno-mods-by-cisowscy)  
+      ➡️ [GitHub – MOD by CIS](https://github.com/mod-by-cis)  
     </td>
   </tr>
 
