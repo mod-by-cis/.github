@@ -1,17 +1,14 @@
-![LOGO](./logo/LOGO_B.JPG)
-
 <table border="1">
   <tr>
     <th><h1>Serwus 👋</h1></th>
     <th><h1>Hi there 👋</h1></th>
-  </tr>
+  </tr> 
+
+  <tr><th colspan="2"><h2><a href="https://github.com/orgs/mod-by-cis/repositories">REPOSITORIES</a></h2></th></tr>
+  <tr><th colspan="2"><img src="https://raw.githubusercontent.com/mod-by-cis/.github/refs/heads/main/profile/logo/LOGO_B.JPG" alt="LOGO" /></th></tr>
   
 
-  <tr>
-    <th><h2>Znajdziecie nas tutaj</h2></th>
-    <th><h2>Find us here</h2></th>
-  </tr>
-
+  
   <tr>
     <td>
       ➡️ [Facebook – MOD by CIS](https://www.facebook.com/mod.by.cis/)  
@@ -21,12 +18,6 @@
       ➡️ [Facebook – MOD by CIS](https://www.facebook.com/mod.by.cis/)  
       ➡️ [GitHub – MOD by CIS](https://github.com/mod-by-cis)  
     </td>
-  </tr>
-
-  <tr>
-    <td colspan="2>
-      <a href="https://www.facebook.com/mod.by.cis/posts/pfbid02mZ5XFoxsZU8DWVRrt7VrSCTDEtVWTDon8gsjwwomgARdQkDLtK1UCnTJZQAe2hYgl">https://www.facebook.com/mod.by.cis/posts/pfbid02mZ5XFoxsZU8DWVRrt7VrSCTDEtVWTDon8gsjwwomgARdQkDLtK1UCnTJZQAe2hYgl</a>
-      </td>
   </tr>
  
 
